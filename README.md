@@ -24,4 +24,4 @@ Shopper is a fully-featured e-commerce platform mimicking a Shopify storefront. 
 ## 📦 Installation & Setup  
 1️⃣ Clone this repository:  
 ```sh
-git clone https://github.com/yourusername/shopper-ecommerce.git
+git clone https://github.com/mdshahwajhussain/shopper-ecommerce.git
